@@ -25,19 +25,23 @@
   ![](images/4.jpg)
 
 ### Step3:Setup Jenkins Jobs
+
 #### Job1: For fetching repo from GitHub
 This job will copy repository from github whenever developer pushes the code to Github. This job has a build trigger Poll SCM enabled in it that will check every minute if there is any update in github.
 ![](images/5.png)
+
 #### Job2: For launching container
 This job is interesting it will check the code/program file then automatically launch container having the respective language interpreter installed in it. This job is also chainnned with Job1. It will run only when Job1 is successfully build.
 ![](images/6.png)
+
 #### Job3: For Testing
 This job tests our web application. If its running then the job will build successfully otherwise it will fail and it will send email to developer that the job is failed.
 ![](images/7.png)
 ![](images/8.png)
+
 #### Job4: For monitoring container
 This Job will automatically launch the container if for some reason container is down
-![](images/8.png)
+![](images/9.png)
 
 ### Dashboard
 ![](images/0.png)
