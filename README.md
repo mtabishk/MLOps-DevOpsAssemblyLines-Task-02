@@ -22,7 +22,7 @@
   * Build this image using this command
   ![](images/3.png)
   * Launch the container, It will start Jenkins service automatically inside the container.
-  ![](images/4.jpg)
+  ![](images/4.png)
 
 ### Step3:Setup Jenkins Jobs
 
