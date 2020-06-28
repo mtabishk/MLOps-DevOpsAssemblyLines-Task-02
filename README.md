@@ -33,6 +33,7 @@ This job will copy repository from github whenever developer pushes the code to 
 #### Job2: For launching container
 This job is interesting it will check the code/program file then automatically launch container having the respective language interpreter installed in it. This job is also chainnned with Job1. It will run only when Job1 is successfully build.
 ![](images/6.png)
+![](images/61.png)
 
 #### Job3: For Testing
 This job tests our web application. If its running then the job will build successfully otherwise it will fail and it will send email to developer that the job is failed.
