@@ -1,6 +1,6 @@
 # MLOps & DevOpsAssemblyLines Task-02
 ## Project:Complete Automation of Web-Application Deployment and Testing
-![](images/0.png)
+![](images/0a.png)
 ## Description:
 #### 1. Create container image that’s has Jenkins installed using dockerfile.
 #### 2. When we launch this image, it should automatically starts Jenkins service in the container.
