@@ -50,6 +50,6 @@ This Job is used for monitoring purpose. It will automatically launch the contai
 ![](images/9a.png)
 
 ### Dashboard
-![](images/0.png)
+![](images/end.png)
 
 ## Hooray! The task is done. 
