@@ -38,7 +38,7 @@ This job is interesting it will check the code/program file then automatically l
 #### Job3: For Testing
 This job tests our web application. If its running then the job will build successfully otherwise it will fail and it will send email to developer that the job is failed.
 ![](images/7a.png)
-![](images/8.png)
+![](images/8a.png)
 
 #### Job4: For monitoring container
 This Job will automatically launch the container if for some reason container is down
