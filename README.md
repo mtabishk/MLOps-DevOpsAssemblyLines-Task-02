@@ -1,5 +1,6 @@
 # MLOps & DevOpsAssemblyLines Task-02
-## Project:Complete Automation of Web-Application Deployment and Testing
+## Complete Automation of Web-Application Deployment and Testing
+
 ![](images/0a.png)
 
 ## Problem Statement:
